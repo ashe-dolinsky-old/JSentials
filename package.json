@@ -1,0 +1,9 @@
+{
+  "name": "JSentials",
+  "version": "0.0.5",
+  "description": "Various utility functions and closures to make everyday JS almost bearable",
+  "main": "index.js",
+  "repository": "git@github.com:ashe-dolinsky/JSentials.git",
+  "author": "Asheera Dolinsky <ashe.dolinsky@gmail.com>",
+  "license": "MIT"
+}
