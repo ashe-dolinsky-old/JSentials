@@ -1,6 +1,6 @@
 {
   "name": "jsentials",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Various utility functions and closures to make everyday JS almost bearable",
   "main": "index.js",
   "repository": "git@github.com:ashe-dolinsky/JSentials.git",

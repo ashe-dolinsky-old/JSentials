@@ -46,7 +46,7 @@ const Timekeeper = ({ body = () => {}, end = 0, tick = 100, delay = 0, next = nu
             if (next) next({ time, end, tick, delay, next })
         }
     }
-    const delayTimeout = setTimeout(() => {
+    let delayTimeout = setTimeout(() => {
         delayTimeout = null
         inner(0)
     }, delay)
