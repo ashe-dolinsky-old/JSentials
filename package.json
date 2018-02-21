@@ -1,5 +1,5 @@
 {
-  "name": "JSentials",
+  "name": "jsentials",
   "version": "0.0.5",
   "description": "Various utility functions and closures to make everyday JS almost bearable",
   "main": "index.js",
